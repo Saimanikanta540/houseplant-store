@@ -1,0 +1,25 @@
+.landing-container {
+    text-align: center;
+    padding: 50px;
+    background: url("../assets/bg.jpg") center/cover no-repeat;
+    height: 100vh;
+    color: white;
+}
+
+.landing-container h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.landing-container p {
+    font-size: 18px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.get-started-btn {
+    margin-top: 20px;
+    background-color: #ff9800;
+    padding: 15px 20px;
+    font-size: 18px;
+}
